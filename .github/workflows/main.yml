@@ -17,8 +17,8 @@ jobs:
           distribution: 'adopt'
       # Step 3
       - name: Build Application and Run unit Test
-        run: mvn -B package --file student-service/pom.xml
-        
+        run: mvn -B test --file student-service/pom.xml
+
   continuous-deployment:
     runs-on: ubuntu-latest
     needs: [continuous-integration]
