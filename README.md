@@ -1,4 +1,4 @@
-# Auto Deploy in Amazon EC2 on Git Commit using GitHub CI/CD Action and AWS CodeDeploy (AnCaPepe branch).
+# Auto Deploy in Amazon EC2 on Git Commit using GitHub CI/CD Action and AWS CodeDeploy (AnCaPepe).
 
 ***
 
